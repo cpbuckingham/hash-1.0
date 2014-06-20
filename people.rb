@@ -20,7 +20,7 @@ PEOPLE = {
       :favorite_genres => ["funk", "blues"],
     },
     sitting_next_to: :joe,
-    correspondence: [
+    correspondence:  [
       {date: "11/7/2014", description: "sent invitation"},
       {date: "12/8/2014", description: "replied yes + 1"},
     ],
